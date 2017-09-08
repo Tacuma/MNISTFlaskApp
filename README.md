@@ -3,7 +3,7 @@
 ## My First flask app. 
 This was basically an exercise to learn Python, Sklearn, Google Cloud Platform, git in terminal, glt, working with resizing and flattening image data, and flask. While it's a small application, I learned a lot.
 
-Link for flask app:
+Link for flask app: https://mnistflaskapp.appspot.com/
 
 The handwritten digit recognition was written with the flask microframework, and backed with a RandomForests model trained on the MNIST dataset. Simply draw a single digit number, click predict, and watch as the app generates a prediction.
 
