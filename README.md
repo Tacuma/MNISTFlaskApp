@@ -1,7 +1,7 @@
 # MNISTFlaskApp
 
 ## My First flask app. 
-This was basically an exercise so that I can learn python, sckikit, google cloud platform, git in terminal, and flask. While it's a small application, I learned alot.
+This was basically an exercise to learn Python, Sklearn, Google Cloud Platform, git in terminal, glt, and flask. While it's a small application, I learned alot.
 
 Link for flask app:
 
