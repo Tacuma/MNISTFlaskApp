@@ -7,7 +7,7 @@ Link for flask app: https://mnistflaskapp.appspot.com/
 
 The handwritten digit recognition was written with the flask microframework, and backed with a RandomForests model trained on the MNIST dataset. Simply draw a single digit number, click predict, and watch as the app generates a prediction.
 
-The front end was a flask modified from the html and stylesheets found here:
+The front end was a flask app modified from the html and stylesheets found here:
 https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production
 
 And I built and trained the model with a little help from this book:
